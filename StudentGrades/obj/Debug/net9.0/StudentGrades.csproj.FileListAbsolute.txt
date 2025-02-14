@@ -1,0 +1,14 @@
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\bin\Debug\net9.0\StudentGrades.exe
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\bin\Debug\net9.0\StudentGrades.deps.json
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\bin\Debug\net9.0\StudentGrades.runtimeconfig.json
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\bin\Debug\net9.0\StudentGrades.dll
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\bin\Debug\net9.0\StudentGrades.pdb
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.AssemblyInfo.cs
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.dll
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\refint\StudentGrades.dll
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.pdb
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\StudentGrades.genruntimeconfig.cache
+C:\Users\diger\Desktop\Projects\StudentGrades\StudentGrades\obj\Debug\net9.0\ref\StudentGrades.dll
